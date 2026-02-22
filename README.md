@@ -2,5 +2,4 @@
 - ⭐ 30 star = Src code Redtiger V2
 - ⭐ 50 star = Redtiger V3 ( +200 functions )
 
-D0x tool in the multitool : https://vimeo.com/1167120131?fl=pl&fe=cm
-
+D0x tool in the multitool 
