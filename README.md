@@ -1,15 +1,15 @@
 <p align="center">
-  <a href="https://github.com/VatosV2/Nexus-MultiTool">
+  <a href="[https://github.com/VatosV2/Nexus-MultiToo](https://github.com/Nahafr/Redtiger-Multiool)l">
     <img src="https://www.nexustools.store/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Nexus MultiTool - <a href="https://discord.gg/nexustools">https://discord.gg/nexustools</a></h3>
+
 
   <p align="center">
     Nexus-MultiTool - is a Multi/Dicsord-Tool mostly centered around discord Tokens But also has Other Functions
     <br/>
     <br/>
-    <a href="https://discord.gg/nexustools">Join our Discord</a>
+    <a href="https://discord.gg/toolsfr">Join our Discord</a>
   </p>
 </p>
 
@@ -148,9 +148,5 @@
   - Theme Changer
 ```
 
-## Donate
-```yaml
-LTC:
-ltc1qt0eev64v3aq05x7meks443mwugk9269juz0jrt
-```
+
  
