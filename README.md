@@ -1,7 +1,6 @@
 <p align="center">
   <a href="[https://github.com/VatosV2/Nexus-MultiToo](https://github.com/Nahafr/Redtiger-Multiool)l">
-    <img src="https://www.nexustools.store/images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+
 
 
 
@@ -16,7 +15,6 @@
 <h3 align="center">Please star to support this project for free! ⭐</h3>
 <h3 align="center">Linux not supported at the moment! ❌</h3>
 <br/>
-<h3 align="center"><a href="https://nexustools.de/">https://nexustools.de/</a></h3>
 
 ## Screenshot
 ![Screenshot](https://repository-images.githubusercontent.com/765915896/684b1822-40f8-4dc3-972c-f706e56e9243)
