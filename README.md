@@ -1,23 +1,3 @@
-<p align="center">
-  <a href="[https://github.com/VatosV2/Nexus-MultiToo](https://github.com/Nahafr/Redtiger-Multiool)l">
-
-
-
-
-  <p align="center">
-    Nexus-MultiTool - is a Multi/Dicsord-Tool mostly centered around discord Tokens But also has Other Functions
-    <br/>
-    <br/>
-    <a href="https://discord.gg/toolsfr">Join our Discord</a>
-  </p>
-</p>
-
-<h3 align="center">Please star to support this project for free! ⭐</h3>
-<h3 align="center">Linux not supported at the moment! ❌</h3>
-<br/>
-
-## Screenshot
-![Screenshot](https://repository-images.githubusercontent.com/765915896/684b1822-40f8-4dc3-972c-f706e56e9243)
 
 
 ## Functions
@@ -144,6 +124,8 @@
   - Serial Checker
   - Serial Changer
   - Theme Changer
+  - Stealer Undetected
+  - Build R4T
 ```
 
 
